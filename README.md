@@ -138,10 +138,8 @@ The scraper implements comprehensive error handling:
 - Screenshot capture at failure points
 - Progressive data saving to preserve progress
 
-## License
-
-[Specify your license here]
 
 ## Author
 
-[Your name or organization]
+[Dev Chhabada][chhabadadev@gmail.com]
+
